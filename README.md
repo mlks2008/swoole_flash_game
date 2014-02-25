@@ -3,6 +3,8 @@ swoole_flash_game
 
 基于swoole扩展和zphp框架开发的flash游戏
 
+![screenshot.jpg](游戏截图)
+
 安装swoole扩展：
 ```shell
 pecl install swoole
